@@ -1,0 +1,6 @@
+{
+  "name": "TRINETRA: Predictive Cybercrime Cash-Out Intelligence Network",
+  "description": "AI-assisted decision intelligence for forecasting probable cybercrime cash-out zones, enabling Digital Nakabandi and proactive intervention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
